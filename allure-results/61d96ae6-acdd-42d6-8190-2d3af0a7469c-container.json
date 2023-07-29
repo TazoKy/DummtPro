@@ -1,0 +1,1 @@
+{"uuid":"61d96ae6-acdd-42d6-8190-2d3af0a7469c","name":"TestRun.close","children":["60a52c74-7f42-47e4-a474-1f9cab81f4b0"],"description":"","befores":[],"afters":[{"name":"close","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1690628660832,"stop":1690628660832}],"links":[],"start":1690628660832,"stop":1690628660832}
